@@ -1,0 +1,23 @@
+.title{
+    position: relative;
+    width: 100%;
+    text-align: center;
+    filter: url(#fire);
+}
+
+body{
+    background-color: black;
+}
+.title h2{
+    color:#f7b90e;
+    font-weight: 600;
+    font-size: 7em;
+     /* -webkit-box-reflect: below -50px linear-gradient(transparent,#0008); */
+    text-shadow: 0 0 15px #ff8c3b;
+    /* 0 0 80px #ff8c3b,
+    0 0 40px #ff8c3b,
+    0 0 80px #ff8c3b,
+    0 0 160px #ff8c3b; */
+    text-transform: uppercase;
+
+}
